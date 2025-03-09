@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2963e5824cc63ff4196692fee90b7152, type: 3}
+  m_Name: woodenHandle
+  m_EditorClassIdentifier: 
+  itemId: woodenHandle
+  displayName: Wooden Handle
+  itemType: 2
+  weaponType: 0
+  materialType: 0
+  prefab: {fileID: 440874347328058349, guid: 82261e01856053b4c86bb47a99860bc0, type: 3}
+  smeltTime: 0
+  requiredIngots: 0
+  resultingItemId: 

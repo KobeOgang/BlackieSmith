@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2963e5824cc63ff4196692fee90b7152, type: 3}
+  m_Name: steelOre
+  m_EditorClassIdentifier: 
+  itemId: steelOre
+  displayName: Steel Ore
+  itemType: 0
+  weaponType: 0
+  materialType: 3
+  prefab: {fileID: 8880617860304097253, guid: 074c197fb0ed11346bfc36a3cc20bbfe, type: 3}
+  smeltTime: 15
+  requiredIngots: 0
+  resultingItemId: steelIngot
